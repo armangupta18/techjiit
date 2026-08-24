@@ -1,0 +1,22 @@
+[
+  {
+    "component": "tech-jiit",
+    "componentID": 0,
+    "componentPrimaryName": "",
+    "templateID": 0,
+    "entities": [],
+    "query": "holiday on 31st",
+    "componentEnabled": true,
+    "keyword": [
+      {
+        "word": "holiday",
+        "description": ""
+      }
+    ],
+    "compInfo": null,
+    "queryTerm": "holiday on 31st",
+    "disambiguationType": 3,
+    "time": "2026-08-21T09:14:34.366Z",
+    "componentType": "internal"
+  }
+]
